@@ -1,6 +1,6 @@
 # 人生上下文
 
-把零散经历整理成一份可以持续修改的人生详纲。按**时期**看发生过什么，沿**发展轨迹**看生活中的某个方面怎样变化。同一事件可以关联多个维度，原文只保留一份。
+把零散经历整理成一份可以持续修改的人生详纲。按**时期**看发生过什么，沿**发展轨迹**看生活中的某个方面怎样变化。同一事件可以关联多个维度，原文只保留一份。还可以用选定经历梳理现实问题、推演未来情景、制定计划并回看实际反馈。
 
 **[打开手机使用入口](https://nos778.github.io/life-context-personal/)**
 
@@ -13,7 +13,7 @@
 
 ## 在 Codex 使用
 
-下载 [Skill 安装包](https://nos778.github.io/life-context-personal/life-context-personal-v1.zip)，解压并将整个 `life-context-personal` 文件夹放入 Codex 的 Skills 目录。在对话中调用 `$life-context-personal`。使用已有资料时，请指定要读取的 Markdown 文件。
+下载 [Skill 安装包](https://nos778.github.io/life-context-personal/life-context-personal-v2.zip)，解压并将整个 `life-context-personal` 文件夹放入 Codex 的 Skills 目录。在对话中调用 `$life-context-personal`。使用已有资料时，请指定要读取的 Markdown 文件。
 
 ## 文件与示例
 
@@ -23,3 +23,4 @@
 - [Skill 规则](./SKILL.md)
 
 入口页提供项目说明、启动指令和下载。对话在你选择的 AI 应用中进行，资料由你保存。建议先用虚构示例体验，再选择愿意交给该应用处理的个人内容。
+
